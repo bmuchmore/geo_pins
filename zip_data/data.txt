@@ -1,0 +1,17 @@
+path:
+- data.csv
+- data.rds
+rows: 42760
+cols: 10
+columns:
+  fips: numeric
+  Zip: character
+  City: character
+  County: character
+  State: character
+  State_Abbreviation: character
+  Zip_latitude: numeric
+  Zip_longitude: numeric
+  County_latitude: numeric
+  County_longitude: numeric
+type: table
