@@ -1,0 +1,5 @@
+- path: zip_data
+  name: zip_data
+  rows: 42760
+  cols: 10
+  type: table
