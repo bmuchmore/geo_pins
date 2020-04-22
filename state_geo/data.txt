@@ -1,0 +1,10 @@
+path:
+- https://github.com/bmuchmore/geo_pins/releases/download/state_geo-fbb814b/data.csv
+- https://github.com/bmuchmore/geo_pins/releases/download/state_geo-fbb814b/data.rds
+rows: 52
+cols: 3
+columns:
+  geoid: character
+  state: character
+  geometry: sfc_MULTIPOLYGON
+type: table
