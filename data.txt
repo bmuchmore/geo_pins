@@ -3,3 +3,8 @@
   rows: 42760
   cols: 10
   type: table
+- path: county_data
+  name: county_data
+  rows: 3142
+  cols: 20
+  type: table
