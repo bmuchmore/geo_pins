@@ -1,0 +1,76 @@
+path:
+- https://github.com/bmuchmore/geo_pins/releases/download/state_data-5d256f2/data.csv
+- https://github.com/bmuchmore/geo_pins/releases/download/state_data-5d256f2/data.rds
+rows: 51
+cols: 69
+columns:
+  geoid: character
+  state: character
+  all_ages: numeric
+  age_0_to_4_years: numeric
+  age_5_to_9_years: numeric
+  age_10_to_14_years: numeric
+  age_15_to_19_years: numeric
+  age_20_to_24_years: numeric
+  age_25_to_29_years: numeric
+  age_30_to_34_years: numeric
+  age_35_to_39_years: numeric
+  age_40_to_44_years: numeric
+  age_45_to_49_years: numeric
+  age_50_to_54_years: numeric
+  age_55_to_59_years: numeric
+  age_60_to_64_years: numeric
+  age_65_to_69_years: numeric
+  age_70_to_74_years: numeric
+  age_75_to_79_years: numeric
+  age_80_to_84_years: numeric
+  age_85_years_and_older: numeric
+  under_18_years: numeric
+  x5_to_13_years: numeric
+  x14_to_17_years: numeric
+  x18_to_64_years: numeric
+  x18_to_24_years: numeric
+  x25_to_44_years: numeric
+  x45_to_64_years: numeric
+  x65_years_and_over: numeric
+  x85_years_and_over: numeric
+  x16_years_and_over: numeric
+  x18_years_and_over: numeric
+  x15_to_44_years: numeric
+  median_age: numeric
+  pop: numeric
+  density: numeric
+  births: numeric
+  deaths: numeric
+  domesticmig: numeric
+  internationalmig: numeric
+  naturalinc: numeric
+  netmig: numeric
+  rbirth: numeric
+  rdeath: numeric
+  rdomesticmig: numeric
+  rinternationalmig: numeric
+  rnaturalinc: numeric
+  rnetmig: numeric
+  huest: list
+  median_household_income: numeric
+  median_household_income_margin_of_error: numeric
+  both_sexes: numeric
+  male: numeric
+  female: numeric
+  all_races: numeric
+  white_alone: numeric
+  black_alone: numeric
+  american_indian_and_alaska_native_alone: numeric
+  asian_alone: numeric
+  native_hawaiian_and_other_pacific_islander_alone: numeric
+  two_or_more_races: numeric
+  white_alone_or_in_combination: numeric
+  black_alone_or_in_combination: numeric
+  american_indian_and_alaska_native_alone_or_in_combination: numeric
+  asian_alone_or_in_combination: numeric
+  native_hawaiian_and_other_pacific_islander_alone_or_in_combination: numeric
+  both_hispanic_origins: numeric
+  non_hispanic: numeric
+  hispanic: numeric
+type: table
