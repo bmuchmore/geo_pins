@@ -8,3 +8,8 @@
   rows: 3142
   cols: 20
   type: table
+- path: county_geo
+  name: county_geo
+  rows: 3220
+  cols: 4
+  type: table
