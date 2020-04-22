@@ -1,0 +1,27 @@
+path:
+- https://github.com/bmuchmore/geo_pins/releases/download/county_data-89b3d2f/data.csv
+- https://github.com/bmuchmore/geo_pins/releases/download/county_data-89b3d2f/data.rds
+rows: 3142
+cols: 20
+columns:
+  geoid: character
+  county: character
+  state: character
+  median_household_income: numeric
+  median_household_income_margin_of_error: numeric
+  pop: numeric
+  density: numeric
+  births: numeric
+  deaths: numeric
+  domesticmig: numeric
+  internationalmig: numeric
+  naturalinc: numeric
+  netmig: numeric
+  rbirth: numeric
+  rdeath: numeric
+  rdomesticmig: numeric
+  rinternationalmig: numeric
+  rnaturalinc: numeric
+  rnetmig: numeric
+  huest: list
+type: table
