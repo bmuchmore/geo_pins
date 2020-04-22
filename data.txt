@@ -18,3 +18,8 @@
   rows: 51
   cols: 69
   type: table
+- path: state_geo
+  name: state_geo
+  rows: 52
+  cols: 3
+  type: table
