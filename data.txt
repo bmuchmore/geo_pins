@@ -13,3 +13,8 @@
   rows: 3220
   cols: 4
   type: table
+- path: state_data
+  name: state_data
+  rows: 51
+  cols: 69
+  type: table
