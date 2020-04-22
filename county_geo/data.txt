@@ -1,0 +1,11 @@
+path:
+- https://github.com/bmuchmore/geo_pins/releases/download/county_geo-c065139/data.csv
+- https://github.com/bmuchmore/geo_pins/releases/download/county_geo-c065139/data.rds
+rows: 3220
+cols: 4
+columns:
+  geoid: character
+  county: character
+  state: character
+  geometry: sfc_MULTIPOLYGON
+type: table
